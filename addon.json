@@ -3,8 +3,10 @@
 	"type"		:	"ServerContent",
 	"ignore"	:
 	[
-		"upload.sh",
+		"publish.sh",
 		".git/*",
-		".gitignore"
+		".gitignore",
+		"WORKFILES/*",
+		"icon.jpg"
 	]
 }
