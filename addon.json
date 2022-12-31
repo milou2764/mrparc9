@@ -1,0 +1,10 @@
+{
+	"title"		:	"mrparc9",
+	"type"		:	"ServerContent",
+	"ignore"	:
+	[
+		"upload.sh",
+		".git/*",
+		".gitignore"
+	]
+}

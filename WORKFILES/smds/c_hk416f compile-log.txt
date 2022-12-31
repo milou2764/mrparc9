@@ -1,0 +1,97 @@
+// Created by Crowbar 0.72
+
+  Compiling "c_hk416f.qc" ...
+    Output from compiler "E:\SteamLibrary\steamapps\common\GarrysMod\bin\studiomdl.exe": 
+      FileSystem_LoadSearchPaths
+      qdir:    "e:\gitwil\militaryrp\workfiles\smds\"
+      gamedir: "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "c_hk416f.qc"
+      Building binary model files...
+      Working on "c_hk416f.qc"
+      SMD MODEL c_hk416f.smd
+      SMD MODEL c_irons.smd
+      SMD MODEL anims\idle.smd
+      SMD MODEL anims\fire.smd
+      SMD MODEL anims\reload.smd
+      SMD MODEL anims\reload_empty.smd
+      SMD MODEL anims\deploy.smd
+      SMD MODEL anims\holster.smd
+      Processing LOD for material: hk416f
+      Processing LOD for material: m4_magazine
+      Processing LOD for material: hk416f
+      ---------------------
+      writing E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/hk416f_1.mdl:
+      bones        10304 bytes (43)
+         animation       x       y       ips    angle
+             @idle    0.00    0.00 :    0.00 (   0.00) 0.2
+             @fire    0.00    0.00 :    0.00 (   0.00) 0.2
+           @reload    0.00    0.00 :    0.00 (   0.00) 3.3
+      @reload_empty    0.00    0.00 :    0.00 (   0.00) 3.8
+           @deploy    0.00    0.00 :    0.00 (   0.00) 1.2
+          @holster    0.00    0.00 :    0.00 (   0.00) 1.0
+      animations   86780 bytes (6 anims) (592 frames) [0:09]
+      sequences     1468 bytes (6 seq) 
+      ik/pose        476 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       136 bytes
+      keyvalues        0 bytes
+      bone transforms     5912 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total       106736
+      ---------------------
+      writing E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/hk416f_1.vvd:
+      vertices    468192 bytes (9754 vertices)
+      vertices     45264 bytes (943 vertices)
+      tangents    156064 bytes (9754 vertices)
+      tangents     15088 bytes (943 vertices)
+      total       684672 bytes
+      ---------------------
+      Generating optimized mesh "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/hk416f_1.sw.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      75 bytes
+      strips:            81 bytes
+      verts:          96273 bytes
+      indices:        48702 bytes
+      bone changes:       8 bytes
+      everything:    145278 bytes
+      ---------------------
+      Generating optimized mesh "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/hk416f_1.dx80.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      75 bytes
+      strips:            81 bytes
+      verts:          96273 bytes
+      indices:        48702 bytes
+      bone changes:      48 bytes
+      everything:    145318 bytes
+      ---------------------
+      Generating optimized mesh "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/hk416f_1.dx90.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            27 bytes
+      strip groups:      75 bytes
+      strips:            81 bytes
+      verts:          96273 bytes
+      indices:        48702 bytes
+      bone changes:      48 bytes
+      everything:    145318 bytes
+      
+      Completed "c_hk416f.qc"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\hk416f_1.dx80.vtx" to "E:\gitwil\militaryrp\WORKFILES\smds\compiled 0.72\models"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\hk416f_1.dx90.vtx" to "E:\gitwil\militaryrp\WORKFILES\smds\compiled 0.72\models"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\hk416f_1.mdl" to "E:\gitwil\militaryrp\WORKFILES\smds\compiled 0.72\models"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\hk416f_1.sw.vtx" to "E:\gitwil\militaryrp\WORKFILES\smds\compiled 0.72\models"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\hk416f_1.vvd" to "E:\gitwil\militaryrp\WORKFILES\smds\compiled 0.72\models"
+  ... Compiling "c_hk416f.qc" finished. Check above for any errors.

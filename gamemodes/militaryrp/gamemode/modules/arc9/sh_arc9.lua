@@ -1,0 +1,5 @@
+hook.Add("MRPInitEntities", "initARC9Entities", function()
+    registerMRPEntity("mrp_famasf1")
+    registerMRPEntity("mrp_fnminimi")
+    registerMRPEntity("mrp_hk416f")
+end)
