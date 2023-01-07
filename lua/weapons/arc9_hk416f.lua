@@ -61,10 +61,10 @@ SWEP.TracerEffect = "ARC9_tracer" -- The effect to use for hitscan tracers
 SWEP.TracerColor = Color(255, 0, 0) -- Color of tracers. Only works if tracer effect supports it. For physical bullets, this is compressed down to 9-bit color.
 SWEP.TracerSize = 3
 --ammo
-SWEP.Ammo = "smg" -- What ammo type this gun uses.
+SWEP.Ammo = "5.56x45mm NATO" -- What ammo type this gun uses.
 SWEP.ChamberSize = 1 -- The amount of rounds this gun can chamber.
 SWEP.ClipSize = 30 -- Self-explanatory.
-SWEP.InfiniteAmmo = true --temp
+SWEP.InfiniteAmmo = false --temp
 --fireshit
 SWEP.RPM = 800
 

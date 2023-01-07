@@ -63,10 +63,10 @@ SWEP.BodyDamageMults = {
 }
 
 -------------------------- MAGAZINE
-SWEP.Ammo = "smg" -- What ammo type this gun uses.
+SWEP.Ammo = "5.56x45mm NATO" -- What ammo type this gun uses.
 SWEP.ChamberSize = 1 -- The amount of rounds this gun can chamber.
-SWEP.ClipSize = 25 -- Self-explanatory.
-SWEP.InfiniteAmmo = true
+SWEP.ClipSize = 200 -- Self-explanatory.
+SWEP.InfiniteAmmo = false
 SWEP.ReloadWhileSprint = true
 SWEP.CanFireUnderwater = false
 -------------------------- FIREMODES
